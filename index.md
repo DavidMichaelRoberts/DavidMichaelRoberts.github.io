@@ -1,4 +1,4 @@
-## Algebraic Topology IV (Pure Maths Topic D 2019)
+## Algebraic Topology IV (Pure Maths Topic D)
 
 This is the website for the course I'm teaching at Adelaide University, where you will find a copy of the notes as they are developed.
 
